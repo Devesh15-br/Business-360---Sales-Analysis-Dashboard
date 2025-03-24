@@ -3,8 +3,7 @@
 ##  Project Overview
 This project aims to streamline and optimize various aspects of  AtliQ Hardwres business, including Finance, Sales, Supply Chain, Executive Management, and Marketing. The primary objectives and key achievements for each perspective are outlined below:
 
-### Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNWI1OWY4YWUtNGY2ZS00ZWQxLWJkMDQtYjgzNTBmMGZjNDFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-### project video link : https://youtu.be/U5bl7FUnbk0?si=qVLBy7Jx_2BX3jCR
+### Live Dashboard Link:https://app.powerbi.com/groups/me/apps/b592860b-9b57-4753-b245-5186254f53d4/reports/eae5faa8-1079-4467-9616-01d3b340204f/8ec141881aa39bd5c534?experience=power-bi
 ## Finance View
 
 ### Objectives
